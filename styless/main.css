@@ -197,3 +197,52 @@ article>nav>div>section{
   background-color: black;
   display: inline-block;
 }
+.sit1{
+  margin: 70px 60px;
+  width: 920px;
+  height: 1480px;
+  background-color: black;
+  display: inline-block;
+}
+.sit2{
+  margin: 20px 60px 0px 60px;
+  width: 820px;
+  height: 1200px;
+  background-color: yellow;
+  display: inline-block;
+}
+.sit3{
+  margin: 20px 30px 0px 30px;
+  width: 760px;
+  height: 300px;
+  background-color: red;
+  display: inline-block;
+}
+.sit4{
+  margin: 30px 20px 0px 40px;
+  width: 760px;
+  height: 300px;
+  background-color: red;
+  display: inline-block;
+}
+.sit5{
+  margin: 15px 40px 0px 20px;
+  width: 760px;
+  height: 200px;
+  background-color: red;
+  display: inline-block;
+}
+.sit6{
+  margin: 15px 45px 20px 15px;
+  width: 760px;
+  height: 200px;
+  background-color: red;
+  display:inline-block;
+}
+.sit7{
+  margin: 40px 100px 60px 100px;
+  width: 700px;
+  height: 200px;
+  background-color: yellow;
+  display: table;
+}
